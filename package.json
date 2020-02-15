@@ -1,0 +1,13 @@
+{
+  "name": "vue-form-elements",
+  "version": "1.0.0",
+  "description": "Components for Vue.js",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/jeanmichelly/vue-form-elements",
+    "type": "git"
+  },
+  "author": "jeanmichelly <jeanmichely@gmail.com>",
+  "license": "MIT",
+  "private": null
+}
